@@ -1,2 +1,2 @@
-# C-C-learning
+# C-learning
 My regular learning experience～
